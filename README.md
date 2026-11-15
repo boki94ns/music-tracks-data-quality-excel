@@ -82,7 +82,7 @@ Song titles can also repeat, so duplicate *titles alone* should not be considere
 
 ## Project Files
 
-- **[`songs(1).xlsx`](songs%281%29.xlsx)** — original Excel workbook containing the dataset and existing validation worksheets.
+- **[`songs.xlsx`](songs%281%29.xlsx)** — original Excel workbook containing the dataset and existing validation worksheets.
 - **`README.md`** — project documentation and data quality observations.
 
 ---

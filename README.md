@@ -4,7 +4,7 @@
 
 ## 📥 Open the Excel Workbook
 
-**[View or download the complete Excel file](songs%281%29.xlsx)**
+
 
 The workbook includes the underlying song records, artist and year lookup sheets, and an initial completeness-check worksheet. On GitHub, use **Download raw file** to save the `.xlsx` file and open it in Microsoft Excel.
 
@@ -80,10 +80,7 @@ Song titles can also repeat, so duplicate *titles alone* should not be considere
 
 `Microsoft Excel` · `Data Inspection` · `COUNTA` · `ISNUMBER` · `Data Validation` · `Lookup Tables` · `Data Quality Review` · `Descriptive Statistics`
 
-## Project Files
 
-- **[`songs.xlsx`](songs%281%29.xlsx)** — original Excel workbook containing the dataset and existing validation worksheets.
-- **`README.md`** — project documentation and data quality observations.
 
 ---
 
